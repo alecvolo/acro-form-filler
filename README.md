@@ -1,3 +1,4 @@
+[![dotnet package](https://github.com/alecvolo/acro-form-filler/actions/workflows/workflow.yaml/badge.svg)](https://github.com/alecvolo/acro-form-filler/actions/workflows/workflow.yaml)
 # Acro Form Evaluator
 
 The package is designed to fill the fields in PDF document in the same way as the biding of the fields in WPF form. The description of fields is stored in the XML file with following structure (example of W4 form from IRS site):
