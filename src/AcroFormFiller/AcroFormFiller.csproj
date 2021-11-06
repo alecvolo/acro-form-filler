@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Description>PDF form filler</Description>
+    <Title>PDF form filler</Title>
+    <Copyright>Copyright (c) 2020 ALexander Vologin</Copyright>
+    <AssemblyTitle>AcroFormFiller.Core</AssemblyTitle>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <Authors>Alexander Vologin</Authors>
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <AssemblyName>AcroFormFiller</AssemblyName>
+    <SignAssembly>False</SignAssembly>
+    <PackageId>AcroFormFiller</PackageId>
+    <PackageTags>PDF;AcroForm;Formula;Parser;Expression;Evaluator;Eval;netstandard;netcore;net40;net45;WindowsPhone8;Silverlight</PackageTags>
+    <PackageReleaseNotes>
+      Source code and examples: https://github.com/alecvolo/acro-form-filler
+      v.0.0.1 changes:
+      - intial version
+    </PackageReleaseNotes>
+    <PackageIconUrl></PackageIconUrl>
+    <PackageProjectUrl>https://github.com/alecvolo/acro-form-filler</PackageProjectUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/alecvolo/acro-form-filler</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <NetStandardImplicitPackageVersion Condition=" '$(TargetFramework)' == 'netstandard1.3' ">1.6.0</NetStandardImplicitPackageVersion>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+    <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyCopyrightAttribute>false</GenerateAssemblyCopyrightAttribute>
+    <GenerateNeutralResourcesLanguageAttribute>false</GenerateNeutralResourcesLanguageAttribute>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NReco.LambdaParser" Version="1.0.12" />
+  </ItemGroup>
+
+</Project>

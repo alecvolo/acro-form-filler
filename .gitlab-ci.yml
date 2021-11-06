@@ -1,0 +1,25 @@
+image: mcr.microsoft.com/dotnet/sdk:5.0
+
+stages:
+    - build
+    - test
+
+build:
+    stage: build
+    script:
+        - "dotnet build"
+    artifacts:
+      paths:
+        - bin/
+
+test:
+    stage: test
+    script: 
+        - 'dotnet test --test-adapter-path:. --logger:"junit;LogFilePath=..\artifacts\{assembly}-test-result.xml;MethodFormat=Class;FailureBodyFormat=Verbose"'
+    artifacts:
+      when: always
+      paths: 
+        - ./src/**/*test-result.xml
+      reports:
+         junit: 
+            - ./src/**/*test-result.xml

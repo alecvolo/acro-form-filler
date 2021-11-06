@@ -1,0 +1,39 @@
+{
+  "fillingStatus": 2,
+  "taxPayer": {
+    "firstName": "TaxPayer First Name",
+    "lastName": "TaxPayer Last Name",
+    "middleName": "Middle Name",
+    "ssn": "123121234",
+    "birthDay": "1950-10-31",
+    "isBlind": false
+  },
+  "spouse": {
+    "firstName": "TaxPayer First Name",
+    "lastName": "TaxPayer Last Name",
+    "ssn": "567565678",
+    "birthDay": "1960-12-01",
+    "isBlind": true
+  },
+  "dependents": [
+    {
+      "person": {
+        "firstName": "Dependent First Name",
+        "lastName": "Last Name",
+        "ssn": "987989876"
+      },
+      "relation": "child",
+      "childTaxCredit": false,
+      "creditForOtherDependents": true
+    },
+    {
+      "person": {
+        "firstName": "Dependent 2 First Name",
+        "lastName": "Last Name",
+        "ssn": "987989876"
+      },
+      "relation": "child",
+      "childTaxCredit": true
+    }
+  ]
+}

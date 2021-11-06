@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FieldDefExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "--input ..\\fw4.pdf"
+    }
+  }
+}

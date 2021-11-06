@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form pdfFile="fw4.pdf" xmlns:h="http://acro.form.filler">
+  <dataFields>
+    <topmostSubform>
+      <Pg1Header xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <Step1 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <Step1a>
+        <f1_01 />
+        <f1_02 />
+        <f1_03 />
+        <f1_04 />
+      </Step1a>
+      <f1_05 />
+      <Step2 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <Step2a xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <Step2b xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <Step2c>
+        <c1_2>0</c1_2>
+      </Step2c>
+      <Step3 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <Step3_ReadOrder>
+        <f1_06 />
+        <f1_07 />
+      </Step3_ReadOrder>
+      <f1_08 />
+      <Step4 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <f1_09 />
+      <f1_10 />
+      <f1_11 />
+      <Step5 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      <f1_13 />
+      <f1_14 />
+      <f1_15 />
+      <Page2>
+        <Pg2Header xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        <Col1>
+          <NumberedList2>
+            <Number1 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+            <Number2 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+            <Number3 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+            <Number4 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          </NumberedList2>
+        </Col1>
+        <Col2>
+          <Caution_Multiple>
+            <Caution_22pt xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          </Caution_Multiple>
+        </Col2>
+      </Page2>
+      <Page3>
+        <Pg3Header xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        <f3_01 />
+        <f3_02 />
+        <f3_03 />
+        <f3_04 />
+        <f3_05 />
+        <f3_06 />
+        <f3_07 />
+        <BulletedList1>
+          <Bullet1 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <Bullet2 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <Bullet3 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        </BulletedList1>
+        <f3_08 />
+        <f3_09 />
+        <f3_10 />
+        <f3_11 />
+        <Col1 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        <Col2 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+      </Page3>
+      <Page4>
+        <PgHeader xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        <ArtifactedHeader_MFJ xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        <Table_MarriedFilingJointly>
+          <HiddenHeader xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow1 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow2 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow3 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow4 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow5 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow6 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow7 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow8 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow9 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow10 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow11 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow12 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow13 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow14 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow15 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow16 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow17 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow18 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        </Table_MarriedFilingJointly>
+        <ArtifactedHeader_Single xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        <Table_SingleMFS>
+          <HiddenHeader xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow1 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow2 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow3 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow4 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow5 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow6 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow7 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow8 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow9 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow10 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow11 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow12 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow13 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow14 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow15 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        </Table_SingleMFS>
+        <ArtifactedHeader_HOH xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        <Table_HeadOfHousehold>
+          <HiddenHeader xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow1 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow2 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow3 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow4 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow5 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow6 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow7 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow8 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow9 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow10 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow11 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow12 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow13 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow14 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+          <BodyRow15 xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:dataNode="dataGroup" />
+        </Table_HeadOfHousehold>
+      </Page4>
+      <c1_1>0</c1_1>
+    </topmostSubform>
+  </dataFields>
+</form>
